@@ -14,24 +14,14 @@ based on this data, the program will calculate the risk percentage. The main goa
 
 
 
-  <p align="center"> [Download](https://github.com/teteuu-2010/crypto-aml-checker/releases/tag/AmlChecker) 
-  <br>
-  <hr style="border-radius: 2%; margin-top: 10px; margin-bottom: 50px;" noshade="" size="20" width="98%">
-</p>
-
 
 # Usage
 After starting the program, select the type of wallet address of the wallet, to do this, press the key with the number of the desired type of address.
 Then enter the wallet address you want to verify or the transaction hash of where the recipient's address will be located.
 The program will begin to calculate the risk of the AML wallet address, after calculation the risk percentage from 0 to 100 will be displayed.
 
-![menu](/assets/menu.jpg)
 
-![example](/assets/example.jpg)
 
-## Video
-
-![amlchecker](https://github.com/user-attachments/assets/47fd69e6-5baa-4ea6-8dd7-ff2f9d6a3d41)
 
 
 
@@ -44,11 +34,6 @@ If you have any problems while using this program, please post it in detail and 
 If you download an archive with a password, this repository is copied and all files will contain a virus.
 
 
-# Author support
-If this program was useful to you and you want to support me, then my crypto wallet addresses: \
-BTC - bc1qejv7wcc99uzumpqnphtt8hc7vrm5pw68v0just \
-LTC - ltc1qf6vtxsfhudkq7jfylpfhfv9fsncya35de9fzgr \
-ETH - 0xe6A3d55396968B0257Ee0e13D7c41719832cf8E2
 
 
 
